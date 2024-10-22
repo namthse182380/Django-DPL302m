@@ -1,1 +1,1 @@
-web: gunicorn deepfake_detection.wsgi:application
+web: gunicorn deepfake_detection.wsgi
